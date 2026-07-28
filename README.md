@@ -1,3 +1,6 @@
+Project Demo: https://docs.google.com/videos/d/169eXMjBeoXKW9Pij9jQvo9Mh-VrbfrIeYEdKAXCs8Sg/edit?usp=drive_link
+
+To Run:
 Must first create virtual environment to run application on local machine: 
 -- on mac
 python -3 venv venv 
